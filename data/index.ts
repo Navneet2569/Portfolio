@@ -76,15 +76,15 @@ export const projects = [
   {
     id: 1,
     title: "Portfolio",
-    des: "",
+    des: "My personal portfolio, built with Next.js, React.js, Three.js, Framer Motion, and TypeScript, showcases my skills and projects through a dynamic, visually stunning, and type-safe web experience.",
     img: "/Portfolio.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/Navneet2569",
+    link: "https://github.com/Navneet2569/Portfolio",
   },
   {
     id: 2,
     title: "NewsAI",
-    des: "",
+    des: "NewsAI is a project I developed using AlanAI, React, TypeScript, and TailwindCSS, showcasing an innovative, type-safe, and stylish application for voice-controlled news delivery and user interaction.",
     img: "/NewsAI.png",
     iconLists: [
       "/next.svg",
@@ -97,8 +97,8 @@ export const projects = [
   },
   {
     id: 3,
-    title: "CrowdRaising",
-    des: "",
+    title: "CrowdFunding",
+    des: "CrowdFunding is a website I developed to raise funds for campaigns using Web3 and blockchain, built with React, Next.js, Three.js, and TypeScript, showcasing a secure, interactive, and type-safe crowdfunding platform.",
     img: "/Crowdfunding.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/next.svg"],
     link: "https://github.com/Navneet2569",
@@ -106,7 +106,7 @@ export const projects = [
   {
     id: 4,
     title: "AniX",
-    des: "",
+    des: "AniX is a modern Next.js 14 server-side app I built featuring server actions, infinite scroll, and Framer Motion animations, designed for a seamless, dynamic, and engaging user experience.",
     img: "/AniX.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/Navneet2569",
@@ -226,7 +226,7 @@ export const workExperience = [
     id: 1,
     title: "Secondary Education",
     desc: "I am proud to have completed my secondary education from Sachdeva Millennium School with a efficient 84% aggregate score. This achievement marks a significant milestone in my academic journey, and I am excited to take on new challenges ahead.",
-    duration: "2018-2019",
+    duration: "2017-2018",
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },

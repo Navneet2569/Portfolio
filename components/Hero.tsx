@@ -43,9 +43,9 @@ const Hero = () => {
             Hi! I&apos;m Navneet Singh, a Full Stack Developer based in India
           </p>
 
-          <a href="#about">
+          <a href="https://drive.google.com/file/d/18XhLx3Sdq47eXntrl22f0eFD4LdUG2vq/view?usp=sharing">
             <MagicButton
-              title="Show my work"
+              title="My Resume"
               icon={<FaLocationArrow />}
               position="right"
             />
